@@ -37,13 +37,9 @@ elif:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valeriancarrote&" alt="valeriancarrote" /></p>
 
 
+![Animated SVG](https://github.com/valeriancarrote/valeriancarrote/blob/44279cefd545b3a560dd557dee95ad87998b1dad/github-contribution-grid-snake-dark.svg)
+<object type="image/svg+xml" data="https://github.com/valeriancarrote/valeriancarrote/blob/44279cefd545b3a560dd557dee95ad87998b1dad/github-contribution-grid-snake-dark.svg"></object>
 
-<picture>
-<img
-    alt="github contribution grid snake animation"
-    src="https://github.com/valeriancarrote/valeriancarrote/blob/44279cefd545b3a560dd557dee95ad87998b1dad/github-contribution-grid-snake-dark.svg"
-  />
-  </picture>
 
 <!--
 **valeriancarrote/valeriancarrote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
