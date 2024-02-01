@@ -38,8 +38,12 @@ elif:
 
 
 
-![Alt text](https://github.com/valeriancarrote/valeriancarrote/blob/44279cefd545b3a560dd557dee95ad87998b1dad/github-contribution-grid-snake-dark.svg)
-
+<picture>
+<img
+    alt="github contribution grid snake animation"
+    src="https://github.com/valeriancarrote/valeriancarrote/blob/44279cefd545b3a560dd557dee95ad87998b1dad/github-contribution-grid-snake-dark.svg"
+  />
+  </picture>
 
 <!--
 **valeriancarrote/valeriancarrote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
