@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valeriancarrote&label=Profile%20views&color=0e75b6&style=flat" alt="valeriancarrote" /> </p>
 
-## Skil
+## Skill
 - **Python** : I have the level to begin to do interesting things...
 - **HTML** : I'm not just creating websites; I'm crafting random and entertaining shitposts on the web.
 - **C++** ? : Hummm... I have some base... but... meh, nevermind
