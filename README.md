@@ -17,6 +17,27 @@
 - **HTML** : I'm not just creating websites; I'm crafting random and entertaining shitposts on the web.
 - **C++** ? : Hummm... I have some base... but... meh, nevermind
 - **CSS** : Mastering the art of copying and pasting patterns from the vast internet canvas ! Is it a skill? Of course, it is! 😎
+![Alt text](divider1.png)
+```
+import life
+
+if valerian.carote == alive:
+        eat()
+        code()
+        sleep()
+elif:
+        die()
+```
+![Alt text](divider1.png)
+# github stat (not realy impresive..)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valeriancarrote&show_icons=true&locale=en&layout=compact" alt="valeriancarrote" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valeriancarrote&show_icons=true&theme=dark&locale=en" alt="valeriancarrote" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valeriancarrote&" alt="valeriancarrote" /></p>
+
+
+
 
 <!--
 **valeriancarrote/valeriancarrote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
