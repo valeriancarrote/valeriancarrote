@@ -18,7 +18,7 @@
 - **C++** ? : Hummm... I have some base... but... meh, nevermind
 - **CSS** : Mastering the art of copying and pasting patterns from the vast internet canvas ! Is it a skill? Of course, it is! 😎
 ![Alt text](divider1.png)
-```
+```python
 import life
 
 if valerian.carote == alive:
