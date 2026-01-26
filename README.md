@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10F716&random=false&width=435&lines=A+python+devloper;A+cool+guy;A+french+bagette;This+effet+very+cool.+no+%3F;Why+do+programmers+prefer+dark+mode%3F;Because+light+attracts+bugs.;It+was+a+good+one%2C+no+%3F;You+know+the+rule+and+so+I;Say+goodbye+!+;You+want+to+know+the+end+%3F;There+is+no+end;Get+out+!;Pfff....+you+have+better+to+do...;Ok....+you+win;my+discord+password+%3A+RATAFUN44!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10F716&random=false&width=435&lines=A+python+devloper;A+cool+guy;A+french+bagette;This+effet+is+very+cool.+no+%3F;Why+do+programmers+prefer+dark+mode%3F;Because+light+attracts+bugs.;It+was+a+good+one%2C+no+%3F;You+know+the+rule+and+so+I;Say+goodbye+!+;You+want+to+know+the+end+%3F;There+is+no+end;Get+out+!;Pfff....+you+have+better+to+do...;Ok....+you+win;my+discord+password+%3A+RATAFUN44!" alt="Typing SVG" /></a>
 # Bonjour 🥖
 
 - Name's Valerian, currently leveling up at 17 years old
