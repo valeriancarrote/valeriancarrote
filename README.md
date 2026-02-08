@@ -7,15 +7,15 @@
 - I like coding for my personnal project 👨‍💻
 - I have some pentesting skill 🐱‍💻
 - Game ? sometime.... 🎮
-- In my free time I WATCH YOUTUBE TO MUCH !
-- Fun fact : if you don't breath you will die 💀
+- In my free time I watch youtube too mutch 
+- Fun fact : if you don't breath you will die
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valeriancarrote&label=Profile%20views&color=0e75b6&style=flat" alt="valeriancarrote" /> </p>
 
 ## Skill
 - **Python** : I have the level to begin to do interesting things...
 - **HTML** : I'm not just creating websites; I'm crafting random and entertaining shitposts on the web.
-- **C++** ? : Hummm... I have some base... but... meh, nevermind
+- **Go** ? : Hummm... I have some base... but... meh, nevermind
 - **CSS** : Mastering the art of copying and pasting patterns from the vast internet canvas ! Is it a skill? Of course, it is! 😎
 ![Alt text](divider1.png)
 ```python
