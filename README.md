@@ -1,22 +1,22 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10F716&random=false&width=435&lines=A+python+devloper;A+cool+guy;A+french+bagette;This+effet+is+very+cool.+no+%3F;Why+do+programmers+prefer+dark+mode%3F;Because+light+attracts+bugs.;It+was+a+good+one%2C+no+%3F;You+know+the+rule+and+so+I;Say+goodbye+!+;You+want+to+know+the+end+%3F;There+is+no+end;Get+out+!;Pfff....+you+have+better+to+do...;Ok....+you+win;my+discord+password+%3A+RATAFUN44!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10F716&random=false&width=435&lines=A+Python+developer;A+cool+guy;A+French+baguette;Why+do+programmers+prefer+dark+mode%3F;Because+light+attracts+bugs.;You+know+the+rule+and+so+I;Say+goodbye+!" alt="Typing SVG" /></a>
 # Bonjour 🥖
 
-- Name's Valerian, currently leveling up at 17 years old
-- I am french but hay can spik veri well anglich
+Final-year high school student specializing in Mathematics and Computer Science, passionate about development and cybersecurity.
+
+_I am French but I can spik English veri well_
 # About me 😁
 - I like coding for my personnal project 👨‍💻
 - I have some pentesting skill 🐱‍💻
 - Game ? sometime.... 🎮
 - In my free time I watch youtube too mutch 
-- Fun fact : if you don't breath you will die
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valeriancarrote&label=Profile%20views&color=0e75b6&style=flat" alt="valeriancarrote" /> </p>
 
 ## Skill
-- **Python** : I have the level to begin to do interesting things...
-- **HTML** : I'm not just creating websites; I'm crafting random and entertaining shitposts on the web.
-- **Go** ? : Hummm... I have some base... but... meh, nevermind
-- **CSS** : Mastering the art of copying and pasting patterns from the vast internet canvas ! Is it a skill? Of course, it is! 😎
+- **Python** : Comfortable building real tools and automation : I have the level to begin to do interesting things...
+- **HTML/CSS** : Web basics 
+- **Go** : Learning and applying to personal projects
+
 ![Alt text](divider1.png)
 ```python
 import life
@@ -25,7 +25,7 @@ if valerian.carote == alive:
         eat()
         code()
         sleep()
-elif:
+else:
         die()
 ```
 ![Alt text](divider1.png)
