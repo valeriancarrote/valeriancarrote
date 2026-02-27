@@ -19,9 +19,9 @@ _I am French but I can spik English veri well_
 
 ![Alt text](divider1.png)
 ```python
-import life
+from life import valerian
 
-if valerian.carote == alive:
+if valerian.carote is alive:
         eat()
         code()
         sleep()
